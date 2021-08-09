@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Laravel</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+
+        <style>
+         
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            
+        <h2> Contact me Naira Marli at yahoo.com <p>{{$username}} </p> <p> {{$password}}</p></h2> 
+
+        </div>
+    </body>
+</html>
